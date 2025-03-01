@@ -1,0 +1,24 @@
+App Development-mobile apps - android+ios
+
+Native Development
+Android+java/kotlin - Android Developer
+IOS - Swift - IOS Developer
+
+————————————
+CROSS PLATFORM APPS-ios,android,
+Flutter - google - dart language
+React Native - facebook - js
+Xamarine - microsoft - C#
+—————————————
+Flutter - hot reload
+Flutter directly compiles and convert it into native code
+———————————
+How to create project..
+lib - logic
+assets - images,fonts etc
+pubspec.yaml - dependencies management
+———————————
+Flutter -> everything is widget
+Stateless & Statefull
+stateless -> static
+
